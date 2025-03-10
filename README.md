@@ -19,6 +19,6 @@ A **React-based note-taking app** Easily add, delete, and manage your notes.
 ✅ **Responsive Layout**  
 
 ## 🖥️ How to Run Locally
-# If you're running this locally in VS Code use the commands:
-**to install the node modules** - npm install
-**to launch the react project in your browser** - npm run dev
+### If you're running this locally in VS Code use the commands:
+- **to install the node modules** - npm install
+- **to launch the react project in your browser** - npm run dev
