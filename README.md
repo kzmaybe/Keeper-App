@@ -4,8 +4,8 @@ A **React-based note-taking app** Easily add, delete, and manage your notes.
 
 ![Keeper App Screenshot](demo.png)
 
-## 🚀 Live Demo
-🔗 **[Try the App Here](https://kzmaybe.github.io/Keeper-App/)**
+<!-- ## 🚀 Live Demo
+🔗 **[Try the App Here](https://kzmaybe.github.io/Keeper-App/)** -->
 
 ## 🛠️ Technologies Used
 - **React.js** – Component-based UI  
